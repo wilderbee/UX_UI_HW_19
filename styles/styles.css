@@ -46,6 +46,8 @@ ul {
   position: relative;
 }
 
+/* I made an attempt at adding a hover effect to the individual nav links. The underline croses the entire ul instead of individual links. Wasn't able to figure out why */
+
 .nav-link {
   /* padding: 20px;  */
   text-decoration: none;
@@ -71,6 +73,7 @@ ul {
   transform: scaleX(1);
   transform-origin: left;
 }
+
 /* Typography */
 
 
